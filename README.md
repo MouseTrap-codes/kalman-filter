@@ -1,2 +1,2 @@
 # kalman-filter
-Kalman Filter implementation in Python -- will rewrite in C for use in drone software.
+Kalman Filter implementation in Python --> see simple_kalman.ipynb.
